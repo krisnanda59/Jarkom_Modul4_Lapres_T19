@@ -25,4 +25,19 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
 ---
 
 ## VLSM
-**PENJELASAN**\
+ **PENJELASAN**\
+  Kami menggunakan metode VLSM di untuk Cisco Packet Tracer. 
+  
+  ![]()
+  
+  Lalu kami mulai menghitung pembagian IP dengan bantuan pohon IP
+  
+  ![]()
+  
+  Sehingga, pembagian IP yang memungkinkan untuk topologi yang ada adalah:
+  
+  ![]()
+  
+  
+  
+
