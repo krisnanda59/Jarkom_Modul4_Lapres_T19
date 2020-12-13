@@ -15,7 +15,7 @@ VLSM (Variable Length Subnet Masking) di Cisco Packet Tracer
 CIDR (Clasless Inter Domain Routing) yang belum terpenuhi
 
 ---
-#Tahap Persiapan
+#Tahap Persiapan  
 Pertama tama kami menentukan jumlah alamat IP yang dibutuhkan dari ke 13 subnet, namun ada 2 subnet server yang tidak disertakan, karena Server dikhususkan untuk menggunakan IP 
 DMZ
 
