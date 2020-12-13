@@ -28,9 +28,7 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
  **PENJELASAN**\
   Kami menggunakan metode VLSM di untuk Cisco Packet Tracer. 
   
-  ![]()
-  
-  Lalu kami mulai menghitung pembagian IP dengan bantuan pohon IP
+  Subnet atas yang kami bentuk memiliki NID 192.168.0.0 dengan netmask /19. Lalu kami mulai menghitung pembagian IP dengan tree
   
   ![]()
   
