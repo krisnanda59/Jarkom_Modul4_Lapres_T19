@@ -7,3 +7,8 @@ Kelompok T19
 
 ---
 ```
+
+Pada Topologi di soal tersebut kami melakukan pembagian subnet dengan menggunakan metode Classless yaitu:
+
+VLSM (Variable Length Subnet Masking) di Cisco Packet Tracer
+CIDR (Clasless Inter Domain Routing) yang belum terpenuhi
