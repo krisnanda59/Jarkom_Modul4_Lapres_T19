@@ -42,52 +42,52 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
     1. Surabaya (Router)
     ```
-    IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252       //SURABAYA yang mengarah ke Cloud
-    IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0         //SURABAYA yang mengarah ke PC SAMPANG
-    IPv4 Address 10.151.73.185 Subnet Mask 255.255.255.248      //SURABAYA yang mengarah ke MOJOKERTO
-    IPv4 Address 192.168.0.1 Subnet Mask 255.255.255.252        //SURABAYA yang mengarah ke PASURUAN
-    IPv4 Address 192.168.0.9 Subnet Mask255.255.255.252         //SURABAYA yang mengarah ke BATU
+    IPv4 Address 10.151.71.113 Subnet Mask 255.255.255.252       
+    IPv4 Address 192.168.4.1 Subnet Mask 255.255.252.0         
+    IPv4 Address 10.151.70.57 Subnet Mask 255.255.255.252      
+    IPv4 Address 192.168.0.9 Subnet Mask 255.255.255.252        
+    IPv4 Address 192.168.0.9 Subnet Mask255.255.255.252         
     ```
     2. Pasuruan (Router)
     ```
-    IPv4 Address 192.168.0.2 Subnet Mask 255.255.255.252        //PASURUAN yang mengarah ke SURABAYA
-    IPv4 Address 192.168.20.1 Subnet Mask 255.255.252.0         //PASURUAN yang mengarah ke PC SIDOARJO
-    IPv4 Address 192.168.0.5 Subnet Mask 255.255.255.252        //PASURUAN yang mengarah ke PROBOLINGGO
+    IPv4 Address 192.168.8.1 Subnet Mask 255.255.248.0       
+    IPv4 Address 192.168.0.2 Subnet Mask 255.255.255.252      
+    IPv4 Address 192.168.0.5 Subnet Mask 255.255.255.252        
     ```
     3. Probolinggo (Router)
     ```
-    IPv4 Address 192.168.0.6 Subnet Mask 255.255.255.252       //PROBOLINGGO yang mengarah ke PASURUAN
-    IPv4 Address 192.168.8.1 Subnet Mask 255.255.248.0         //PROBOLINGGO yang mengarah ke PC JEMBER & BANYUWANGI
-    IPv4 Address 192.168.0.129 Subnet Mask 255.255.255.128     //PROBOLINGGO yang mengarah ke PC BONDOWOSO
+    IPv4 Address 192.168.24.1 Subnet Mask 255.255.255.252      
+    IPv4 Address 192.168.0.6 Subnet Mask 255.255.255.252         
+    IPv4 Address 192.168.0.129 Subnet Mask 255.255.255.128     
     ```
     4. Batu (Router)
     ```
-    IPv4 Address 192.168.0.10 Subnet Mask 255.255.255.252     //BATU yang mengarah ke SURABAYA
-    IPv4 Address 192.168.2.1 Subnet Mask 255.255.254.0        //BATU yang mengarah ke PC JOMBANG & ROUTER MADIUN
-    IPv4 Address 192.168.16.1 Subnet Mask 255.255.252.0       //BATU yang mengarah ke PC NGANJUK
-    IPv4 Address 192.168.0.13 Subnet Mask 255.255.255.252     //BATU yang mengarah ke KEDIRI
+    IPv4 Address 192.168.0.10 Subnet Mask 255.255.255.252     
+    IPv4 Address 192.168.0.13 Subnet Mask 255.255.255.252        
+    IPv4 Address 192.168.12.1 Subnet Mask 255.255.252.0       
+    IPv4 Address 192.168.2.1 Subnet Mask 255.255.254.0     
     ```
     5. Madiun (Router)
     ```
-    IPv4 Address 192.168.2.2 Subnet Mask 255.255.254.0       //MADIUN yang mengarah ke PC JOMBANG & ROUTER BATU
-    IPv4 Address 192.168.0.17 Subnet Mask 255.255.255.240    //MADIUN yang mengarah ke PC BOJONEGORO
+    IPv4 Address 192.168.2.2 Subnet Mask 255.255.254.0       
+    IPv4 Address 192.168.0.17 Subnet Mask 255.255.255.240    
     ```
     6. Kediri (Router)
     ```
-    IPv4 Address 192.168.0.14 Subnet Mask 255.255.255.252      //KEDIRI yang mengarah ke BATU
-    IPv4 Address 192.168.1.1 Subnet Mask 255.255.255.0         //KEDIRI yang mengarah ke PC LUMAJANG & ROUTER BLITAR
-    IPv4 Address 10.151.73.177 Subnet Mask 255.255.255.248     //KEDIRI yang mengarah ke MALANG (SERVER)
+    IPv4 Address 192.168.0.14 Subnet Mask 255.255.255.252      
+    IPv4 Address 192.168.1.1 Subnet Mask 255.255.255.0         
+    IPv4 Address 10.151.71.117 Subnet Mask 255.255.255.252     
     ```
     7. Blitar (Router)  
     ```
-    IPv4 Address 192.168.1.2 Subnet Mask 255.255.255.0       //BLITAR yang mengarah ke PC LUMAJANG & ROUTER KEDIRI
-    IPv4 Address 192.168.4.1 Subnet Mask 255.255.252.0       //BLITAR yang mengarah ke PC TULUNGAGUNG
+    IPv4 Address 192.168.1.2 Subnet Mask 255.255.255.0       
+    IPv4 Address 192.168.16.1 Subnet Mask 255.255.252.0       
     ```
 
     - Atur IP pada client dan server dengan cara `Pilih tab Desktop > IP Configuration`
     8. Sampang (Client)
     ```
-    IPv4 Address 192.168.24.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.24.1
+    IPv4 Address 192.168.4.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.4.1
     ```
     9. Bondowoso (Client)
     ```
@@ -95,15 +95,15 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
     ```
     10. Jember (Client)
     ```
-    IPv4 Address 192.168.8.2 Subnet Mask 255.255.248.0 Default Gateway 192.168.8.1
+    IPv4 Address 192.168.24.3 Subnet Mask 255.255.248.0 Default Gateway 192.168.24.1
     ```
     11. Banyuwangi (Client)
     ```
-    IPv4 Address 192.168.12.1 Subnet Mask 255.255.248.0 Default Gateway 192.168.8.1
+    IPv4 Address 192.168.24.2 Subnet Mask 255.255.248.0 Default Gateway 192.168.24.1
     ```
     12. Sidoarjo (Client)
     ```
-    IPv4 Address 192.168.20.2 Subnet Mask 255.255.255.0 Default Gateway 192.168.20.1
+    IPv4 Address 192.168.8.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.8.1
     ```
     13. Jombang (Client)
     ```
@@ -115,7 +115,7 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
     ```
     15. Nganjuk (Client)
     ```
-    IPv4 Address 192.168.16.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.16.1
+    IPv4 Address 192.168.12.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.12.1
     ```
     16. Lumajang (Client)
     ```
@@ -123,15 +123,15 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
     ```
     17. Tulungagung (Client)
     ```
-    IPv4 Address 192.168.4.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.4.1
+    IPv4 Address 192.168.16.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.16.1
     ```
     18. Mojokerto (Server)
     ```
-    IPv4 Address 10.151.73.186 Subnet Mask 255.255.255.248 Default Gateway 10.151.73.185
+    IPv4 Address 10.151.71.114 Subnet Mask 255.255.255.252 Default Gateway 10.151.71.113
     ```
     19. Malang (Server)
     ```
-    IPv4 Address 10.151.73.178 Subnet Mask 255.255.255.248 Default Gateway 10.151.73.177
+    IPv4 Address 10.151.71.118 Subnet Mask 255.255.255.252 Default Gateway 10.151.71.117
   ```
 
   5. Routing
@@ -139,48 +139,49 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
   - Pada <i>static routing</i> juga dibutuhkan <b>default routing</b> agar router dapat mengirimkan paket sesuai dengan tujuan. Default routing dibutuhkan untuk router yang berada di bawah router utama (router yang terhubung internet).
     1. Pada Surabaya
     ```
-    Network 192.168.0.128 Netmask 255.255.255.128 Next Hop 192.168.0.2
-    Network 192.168.8.0 Netmask 255.255.248.0 Next Hop 192.168.0.2
-    Network 192.168.20.0 Netmask 255.255.252.0 Next Hop 192.168.0.2
-    Network 192.168.0.4 Netmask 255.255.255.252 Next Hop 192.168.0.2
-    Network 192.168.16.0 Netmask 255.255.252.0 Next Hop 192.168.0.10
-    Network 192.168.2.0 Netmask 255.255.254.0 Next Hop 192.168.0.10
-    Network 192.168.0.16 Netmask 255.255.255.240 Next Hop 192.168.0.10
-    Network 192.168.1.0 Netmask 255.255.255.0 Next Hop 192.168.0.10
-    Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.0.10
-    Network 10.151.73.176 Netmask 255.255.255.248 Next Hop 192.168.0.10
-    Network 192.168.0.12 Netmask 255.255.255.252 Next Hop 192.168.0.10
-    ```
+   
+   ![5_1](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting1.png)
+    ![5_2](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting2.png)
+    ![5_3](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting3.png)
+    ![5_4](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting4.png)
+   
+   ```
     2. Pada Pasuruan
     ```
-    Network 192.168.0.128 Netmask 255.255.255.128 Next Hop 192.168.0.6
-    Network 192.168.8.0 Netmask 255.255.248.0 Next Hop 192.168.0.6
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.1
+   
+   ![5_5](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872018138.jpg)
+   
     ```
     3. Pada Probolinggo
     ```
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.5
+    
+    ![5_6](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872042382.jpg)
+    
     ```
     4. Pada Batu
     ```
-    Network 192.168.0.16 Netmask 255.255.255.240 Next Hop 192.168.2.2
-    Network 192.168.1.0 Netmask 255.255.255.0 Next Hop 192.168.0.14
-    Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.0.14
-    Network 10.151.73.176 Netmask 255.255.255.248 Next Hop 192.168.0.14
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.9
+    
+    ![5_7](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872069104.jpg)
+    ![5_8](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872080757.jpg)
+    
     ```
     5. Pada Madiun
     ```
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.2.1
+    
+    ![5_9](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872102728.jpg)
+    
     ```
     6. Pada Kediri
     ```
-    Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.1.2
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.13
+   
+    ![5_10](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872122312.jpg)
+   
     ```
     7. Pada Blitar
     ```
-    Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.1.1
+    
+    ![5_11](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872143850.jpg)
+    
     ```
   
   
