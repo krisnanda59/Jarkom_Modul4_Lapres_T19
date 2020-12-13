@@ -137,47 +137,47 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
   5. Routing
   - Routing dilakukan pada menu <b>Config > Routing > Static</b> pada device <b>Router</b>. Lalu isi <i>Static Routes</i> dan tekan tombol Add
   - Pada <i>static routing</i> juga dibutuhkan <b>default routing</b> agar router dapat mengirimkan paket sesuai dengan tujuan. Default routing dibutuhkan untuk router yang berada di bawah router utama (router yang terhubung internet).
-    1. Pada Surabaya
+    Pada Surabaya
     ```
    
-   ![5_1](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting1.png)
+    ![5_1](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting1.png)
     ![5_2](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting2.png)
     ![5_3](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting3.png)
     ![5_4](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/sby_ruting4.png)
    
-   ```
-    2. Pada Pasuruan
+    ```
+    Pada Pasuruan
     ```
    
-   ![5_5](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872018138.jpg)
+    ![5_5](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872018138.jpg)
    
     ```
-    3. Pada Probolinggo
+    Pada Probolinggo
     ```
     
     ![5_6](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872042382.jpg)
     
     ```
-    4. Pada Batu
+    Pada Batu
     ```
     
     ![5_7](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872069104.jpg)
     ![5_8](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872080757.jpg)
     
     ```
-    5. Pada Madiun
+    Pada Madiun
     ```
     
     ![5_9](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872102728.jpg)
     
     ```
-    6. Pada Kediri
+    Pada Kediri
     ```
    
     ![5_10](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872122312.jpg)
    
     ```
-    7. Pada Blitar
+    Pada Blitar
     ```
     
     ![5_11](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/messageImage_1607872143850.jpg)
