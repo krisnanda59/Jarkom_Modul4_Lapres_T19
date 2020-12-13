@@ -7,8 +7,8 @@ Kelompok T19
 
 ---
 ## Table of Contents
-* (CIDR)[CIDR-1]
-* (VLSM)[VLSM-2]
+* [CIDR](#CIDR-1)
+* [VLSM](#VLSM-2)
 ---
 
 ```
