@@ -12,6 +12,7 @@ Kelompok T19
 ---
 
 # Tahap persiapan 
+![1_1]https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/Soal%20Shift%20Modul%204.png
 Dari topologi soal kami melakukan perhitungan pembagian subnet dengan menggunakan metode Classless:
 
 VLSM (Variable Length Subnet Masking) di Cisco Packet Tracer
