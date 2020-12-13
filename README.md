@@ -6,9 +6,19 @@ Kelompok T19
 
 
 ---
-
-
+```
+Masukin Image soal
+```
 Pada Topologi di soal tersebut kami melakukan pembagian subnet dengan menggunakan metode Classless yaitu:
 
 VLSM (Variable Length Subnet Masking) di Cisco Packet Tracer
 CIDR (Clasless Inter Domain Routing) yang belum terpenuhi
+
+---
+#Tahap Persiapan
+Pertama tama kami menentukan jumlah alamat IP yang dibutuhkan dari ke 13 subnet, namun ada 2 subnet server yang tidak disertakan, karena Server dikhususkan untuk menggunakan IP 
+DMZ
+
+```
+Masukin foto pembagian A
+```
