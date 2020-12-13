@@ -18,6 +18,10 @@ Dari topologi soal kami melakukan perhitungan pembagian subnet dengan menggunaka
 VLSM (Variable Length Subnet Masking) di Cisco Packet Tracer
 CIDR (Clasless Inter Domain Routing) belum terpenuhi
 
+Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
+
+![1_2](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/pembagian%20A.png)
+
 ---
 
 ## VLSM
