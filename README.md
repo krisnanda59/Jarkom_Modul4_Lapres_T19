@@ -27,8 +27,11 @@ Disini kami juga melakukan pembagian subnet, 13 subnet dan 2 subnet untuk server
 ## VLSM
  **PENJELASAN**\
   Kami menggunakan metode VLSM di untuk Cisco Packet Tracer. 
+  1. Table dibawah menjelasakn jumlah alamat IP yang dibutuhkan oleh tiap subnet dari 13 subnet yang ada yang telah kami buat
   
-  Subnet atas yang kami bentuk memiliki NID 192.168.0.0 dengan netmask /19. Lalu kami mulai menghitung pembagian IP dengan tree
+  ![1_1](https://github.com/krisnanda59/Jarkom_Modul4_Lapres_T19/blob/main/Shift%20VLMS%20T19/screenshot.png)
+  
+  2. Subnet atas yang kami bentuk memiliki NID 192.168.0.0 dengan netmask /19. Lalu kami mulai menghitung pembagian IP dengan tree
   
   ![]()
   
